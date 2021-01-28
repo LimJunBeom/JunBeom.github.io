@@ -1,23 +1,14 @@
 ---
 layout: post
-title: "우와"
+title: "첫번째 글"
 tags: [to-do list]
 ---
 
-This post tests the style of a task item list.
+블로그를 시작했다.
+앞으로 여기다 이런거 적을거다.
 
-Source:
-
-```markdown
-- [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
-```
-
-Rendered:
-
-- [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
+1. 코드 공부하는거
+2. 자격증 공부한거
+3. 회사에서 배운거 혹은 알게된것
+4. 이것저것
+5. 일상
